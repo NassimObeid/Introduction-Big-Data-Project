@@ -1,3 +1,3 @@
-# Projet Introduction au Big Data: Étude de la consommation électrique
-- Utilisation de la librairie Pandas avec le langage Python et Jupyter Notebook
-- Analyse du fichier csv
+# Big Data Project: Electric consumption
+- Pandas library, Python language and Jupyter Notebook
+- CSV File analysis
